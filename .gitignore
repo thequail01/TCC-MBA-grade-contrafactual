@@ -1,0 +1,11 @@
+# A base de dados não é distribuída: nunca versionar dados ou saídas derivadas
+*.csv
+*.parquet
+*.xlsx
+figuras/
+*.png
+*.log
+log_*.txt
+__pycache__/
+.ipynb_checkpoints/
+.venv/

@@ -1,0 +1,8 @@
+# Versões com que os resultados do artigo foram conferidos
+pandas>=2.2,<3
+numpy>=2.0
+scipy>=1.10
+scikit-learn>=1.5
+xgboost==3.4.1
+matplotlib>=3.8
+psychrolib>=2.5   # usado só em consolidar_base.py; há fórmula equivalente de recurso
